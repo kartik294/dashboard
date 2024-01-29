@@ -1,0 +1,23 @@
+*{
+    margin:0;
+}
+
+.btn{
+   
+   padding: 20px;
+   margin-left:30px;
+   margin-top:20px;
+   background-color: aqua;
+   
+  
+}
+
+.order{
+    margin-top: 20px;
+}
+.img1{
+    width:160px;
+    height:160px;
+    margin-top: 1em;
+    margin-left: 1em;
+}
